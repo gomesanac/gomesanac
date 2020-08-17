@@ -8,10 +8,10 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estudo para
 - 📄 Dê uma olhada no meu [Currículo](https://gitconnected.com/gomesanac/resume).
 
 **Tecnologias e ferramentas**
-/home/ana/Trybe/PORTFÓLIO/gomesanac/
-Ícones feitos por <a href="https://www.flaticon.com/br/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
+
 
 **Me encontre**
 
-<a href="https://www.linkedin.com/in/gomesanac/"><img src="images/linkedin.png" alt="Linkedin Icon"></a>
-<a href="https://github.com/gomesanac"><img src="images/github.png" alt="Linkedin Icon"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboracosilveira/)](https://www.linkedin.com/in/gomesanac/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomes.anac03@gmail.com)](mailto:gomes.anac03@gmail.com)
+
