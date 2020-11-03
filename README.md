@@ -7,7 +7,7 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estudo para
 - 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
 - 📬 Para entrar em contato comigo, por favor, envie um email para `gomes.anac03@gmail.com`
 - 📄 Dê uma olhada no meu [Currículo](https://gitconnected.com/gomesanac/resume)
-- ♀️ Faço do [Elas Codam](https://www.instagram.com/elascodam/), um coletivo de mulheres desenvolvedoras, vem conhecer a gente!
+- ♀️ Faço parte do [Elas Codam](https://www.instagram.com/elascodam/), um coletivo de mulheres desenvolvedoras, vem conhecer a gente!
 
 **Tecnologias e ferramentas**
 
