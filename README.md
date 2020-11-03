@@ -12,15 +12,17 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estudo para
 **Tecnologias e ferramentas**
 
 <img src="https://img.shields.io/badge/-Java Script-yellow?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white" alt="ReactJS Badge" />
-<img src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux&logoColor=white" alt="Redux Badge" />
-<img src="https://img.shields.io/badge/-React Hooks-purple?style=flat-square&logo=React&logoColor=white" alt="Hooks Badge" />
-<img src="https://img.shields.io/badge/-React Testing Library-purple?style=flat-square&logo=react&logoColor=white" alt="React Testing Library Badge" />
-<img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" />
-<img src="https://img.shields.io/badge/-CSS-red?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" />
-<img src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Badge" />
-<img src="https://img.shields.io/badge/-MongoBD-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoBD Badge" />
-<img src="https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge" />
+<img src="https://img.shields.io/badge/-React-5fdafb?style=flat-square&logo=React&logoColor=white" alt="ReactJS Badge" />
+<img src="https://img.shields.io/badge/-Redux-754cbc?style=flat-square&logo=Redux&logoColor=white" alt="Redux Badge" />
+<img src="https://img.shields.io/badge/-React Hooks-5fdafb?style=flat-square&logo=React&logoColor=white" alt="Hooks Badge" />
+<img src="https://img.shields.io/badge/-React Testing Library-5fdafb?style=flat-square&logo=react&logoColor=white" alt="React Testing Library Badge" />
+<img src="https://img.shields.io/badge/-HTML-e44c24?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/-CSS-349cd4?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" />
+<img src="https://img.shields.io/badge/-MySQL-e37429?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Badge" />
+<img src="https://img.shields.io/badge/-MongoBD-61a73a?style=flat-square&logo=mongodb&logoColor=white" alt="MongoBD Badge" />
+<img src="https://img.shields.io/badge/-Jest-9c445c?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge" />
+<img src="https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white" alt="Jest Badge" />
+
 
 **Me encontre**
 
