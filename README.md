@@ -1,6 +1,6 @@
 Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estudo para me tornar uma **Desenvolvedora Full-Stack Júnior** e também atuo como **Student Summer Job na Trybe** 🚀.
 
-- 👩🏽‍💻 Desenvolvedora Fron-end
+- 👩🏽‍💻 Desenvolvedora full-stack
 - 💻 Estudando **Python**
 - 🎨 Apesar de estar no área de tecnologia adoro trabalhos manuais e sempre que posso estou fazendo algo artístico
 - 👩🏽‍🎓 Acredito fortemente que podemos sempre aprender alguma coisa com alguém ou com alguma situação
