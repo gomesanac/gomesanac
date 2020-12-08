@@ -1,4 +1,4 @@
-Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estudo para me tornar uma **Desenvolvedora Full-Stack Júnior** e também atuo como **Student Summer Job na Trybe** 🚀.
+Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estou finalizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior** e atuo como **Desenvolvedora de Softwate** na [Positivo Soluções Didáticas](https://www.linkedin.com/company/positivosolucoesdidaticas/mycompany/) 🚀.
 
 - 👩🏽‍💻 Desenvolvedora full-stack
 - 💻 Estudando **Python**
