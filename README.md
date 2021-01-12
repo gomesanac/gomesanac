@@ -19,6 +19,7 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estou final
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
