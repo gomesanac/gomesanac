@@ -1,4 +1,4 @@
-Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Atualmente estou finalizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior** e atuo como **Desenvolvedora de Software** na [Positivo Soluções Didáticas](https://www.linkedin.com/company/positivosolucoesdidaticas/mycompany/) 🚀.
+Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](https://www.betrybe.com/) em Fevereiro de 2021 e atuo como **Desenvolvedora de Software** na [Positivo Soluções Didáticas](https://www.linkedin.com/company/positivosolucoesdidaticas/mycompany/) 🚀.
 
 - 👩🏽‍💻 Desenvolvedora full-stack
 - 🎨 Apesar de estar no área de tecnologia adoro trabalhos manuais e sempre que posso estou fazendo algo artístico
