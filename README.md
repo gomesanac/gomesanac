@@ -1,4 +1,4 @@
-Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](https://www.betrybe.com/) em Fevereiro de 2021 e atuo como **Desenvolvedora de Software** na [Positivo Soluções Didáticas](https://www.linkedin.com/company/positivosolucoesdidaticas/mycompany/) 🚀.
+Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](https://www.betrybe.com/) em Fevereiro de 2021 e atuo como **Desenvolvedora Front-end** na [ArcoTech](https://www.linkedin.com/company/arcotecheducacao/mycompany/) 🚀.
 
 - 👩🏽‍💻 Desenvolvedora full-stack
 - 🎨 Apesar de estar no área de tecnologia adoro trabalhos manuais e sempre que posso estou fazendo algo artístico
@@ -6,7 +6,6 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](h
 - 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
 - 📬 Para entrar em contato comigo, por favor, envie um email para `gomes.anac03@gmail.com`
 - 📄 Dê uma olhada no meu [Currículo](https://gitconnected.com/gomesanac/resume)
-- ♀️ Faço parte do [Elas Codam](https://www.instagram.com/elascodam/), um coletivo de mulheres desenvolvedoras, vem conhecer a gente!
 
 **Tecnologias e ferramentas**
 
