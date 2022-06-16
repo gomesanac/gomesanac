@@ -9,16 +9,19 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](h
 
 **Tecnologias e ferramentas**
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=React&logoColor=black)
-![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Testing Library Badge](https://img.shields.io/badge/-TestingLibrary-E33332?style=flat-square&logo=TestingLibrary&logoColor=white)
+![NextJS Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Chakra UI Badge](https://img.shields.io/badge/-ChakraUI-319795?style=flat-square&logo=ChakraUI&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
+![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
