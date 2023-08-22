@@ -38,5 +38,5 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](h
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=gomesanac&show_icons=true&theme=dracula" alt="gomesanac" />
 </a>
 <a href="https://github.com/gomesanac">
-  <img align="center" width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesanac&layout=compact&theme=dracula" alt="gomesanac" />
+  <img align="center" width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesanac&layout=compact&theme=dracula" alt="gomesanac" />
 </a>
