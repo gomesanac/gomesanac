@@ -33,10 +33,3 @@ Ei, me chamo Ana Carolina, sou de Belo Horizonte, Brasil. Me formei na [Trybe](h
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesanac/)](https://www.linkedin.com/in/gomesanac/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomes.anac03@gmail.com)](mailto:gomes.anac03@gmail.com)
-
-<a href="https://github.com/gomesanac">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=gomesanac&show_icons=true&theme=dracula" alt="gomesanac" />
-</a>
-<a href="https://github.com/gomesanac">
-  <img align="center" width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesanac&layout=compact&theme=dracula" alt="gomesanac" />
-</a>
